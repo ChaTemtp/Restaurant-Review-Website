@@ -8,8 +8,8 @@
     "priceRange": 1,
     "phone": "02-123-4567",
     "image": "https://images.unsplash.com/photo-1559847844-5315695dadae?w=800",
-    "averageRating": 0,
-    "totalReviews": 0,
+    "averageRating": 3.2,
+    "totalReviews": 3,
     "openHours": "10:00-20:00",
     "createdAt": "2024-01-15T10:00:00.000Z"
   },
